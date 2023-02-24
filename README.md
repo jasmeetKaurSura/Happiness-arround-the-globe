@@ -6,3 +6,5 @@ The world happiness report is a landmark survey of the state of global happiness
 this is a tableau story that focuses on how happiness has evolved over the past six years.
 
 for video of the story: https://www.linkedin.com/feed/update/urn:li:ugcPost:7034968882733883392/
+
+Download Tableau Reader to open the file given in code
