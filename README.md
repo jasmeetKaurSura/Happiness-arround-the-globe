@@ -1,4 +1,4 @@
-# Happiness-arround-the-globe
+# Happiness-arround-the-globe: A tableau Story
 A closeup at happiness scale around the globe
 
 The world happiness report is a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens percieve themselves to be 
